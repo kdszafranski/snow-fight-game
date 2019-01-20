@@ -1,4 +1,6 @@
-# Snow Fight
+# Snow Fight Board Game
+
+> v.01
 
 Turn based board game on hex grid.
 
@@ -18,6 +20,7 @@ Turn based board game on hex grid.
     - bring flag back to your own to score
     - First to 2 captures wins
     - After capture game carries on from current state
+    - Flags with 10 spaces between
 - Throwing snowballs
     - Roll d20
     - Ranges, hits on
@@ -29,6 +32,12 @@ Turn based board game on hex grid.
 - returning pieces can be placed adjacent to flag space, player's choice where
 - returning pieces can move/throw immediately
 
+## Assets Required
+
+- [Hex grid image](assets/hex-grid.pdf)
+- d20
+- player pieces/bits
+- 3 flag bits
 
 # Playtest 1
 
